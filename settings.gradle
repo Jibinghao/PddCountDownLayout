@@ -1,0 +1,3 @@
+rootProject.name='PddCountDownLayout'
+include ':app'
+include ':mylibrary'
