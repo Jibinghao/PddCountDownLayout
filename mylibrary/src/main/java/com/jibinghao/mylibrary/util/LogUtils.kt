@@ -8,7 +8,7 @@ import android.util.Log
  * Copyright
  */
 object LogUtils {
-    private const val TAG = "banner_log"
+    private const val TAG = "COUNT_DOWN"
 
     private const val DEBUG: Boolean = true
 
